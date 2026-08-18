@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/souvik283/Dsa_leetcodes/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/souvik283/Dsa_leetcodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/souvik283/Dsa_leetcodes/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/souvik283/Dsa_leetcodes/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/souvik283/Dsa_leetcodes/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/souvik283/Dsa_leetcodes/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
