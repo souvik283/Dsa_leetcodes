@@ -1,13 +1,6 @@
 class Solution {
 public:
 
-    bool iaAlphaNum (char ch){
-        if((ch >= '0' && ch <= '9') || ((tolower(ch) >= 'a' && tolower(ch) <= 'z'))){
-            return true;
-        }
-        return false;
-    }
-
     bool isPalindrome(string s) {
         int st=0, end=s.length()-1;
 
