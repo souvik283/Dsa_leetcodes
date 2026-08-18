@@ -11,14 +11,14 @@ public:
     bool isPalindrome(string s) {
         int st=0, end=s.length()-1;
 
-        while(st<=end){
+        while(st<end){
 
-            if(!iaAlphaNum(s[st])){
+            if(!iswalnum(s[st])){
                 st++;
                 continue;
             }
 
-            if(!iaAlphaNum(s[end])){
+            if(!iswalnum(s[end])){
                 end--;
                 continue;
             }
