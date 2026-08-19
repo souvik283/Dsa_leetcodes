@@ -11,7 +11,7 @@ public:
         }
 
     vector<int> findAnagrams(string s, string p) {
-        int freq[26] ={0}, st =0, end= p.length()-1, size=0;
+        int freq[26] ={0}, st =0, end= p.length()-1;
         vector<int> arr;
 
     for(int i=0; i<p.length(); i++){
