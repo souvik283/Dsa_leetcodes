@@ -3,7 +3,7 @@ public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         int m = size(grid);
         vector<int> ans;
-        set<int> s;
+        unordered_set<int> s;
 
         for(int i=0 ; i< m ; i++ ){
             for(int j=0 ; j< m ; j++ ){
