@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/souvik283/Dsa_leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/souvik283/Dsa_leetcodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/souvik283/Dsa_leetcodes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/souvik283/Dsa_leetcodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/souvik283/Dsa_leetcodes/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/souvik283/Dsa_leetcodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/souvik283/Dsa_leetcodes/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/souvik283/Dsa_leetcodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/souvik283/Dsa_leetcodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/souvik283/Dsa_leetcodes/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/souvik283/Dsa_leetcodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/souvik283/Dsa_leetcodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/souvik283/Dsa_leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/souvik283/Dsa_leetcodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/souvik283/Dsa_leetcodes/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
