@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/souvik283/Dsa_leetcodes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/souvik283/Dsa_leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/souvik283/Dsa_leetcodes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/souvik283/Dsa_leetcodes/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/souvik283/Dsa_leetcodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/souvik283/Dsa_leetcodes/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/souvik283/Dsa_leetcodes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
